@@ -20,6 +20,6 @@
 
 
 
-# My Resume thumbnail:
+### My Resume thumbnail:
 
-![Resume](assets/img/Resume.png)
+<a><img src="assets/img/Resume.png" height="400dp"></a>
