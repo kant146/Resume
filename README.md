@@ -18,7 +18,7 @@
 <br/>[![Medium Badge](https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@krishnakantkumar_32146)](https://medium.com/@krishnakantkumar_32146)&nbsp; [![Youtube Badge](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)](https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)&nbsp; [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/omgkant.146)](https://www.facebook.com/omgkant.146)&nbsp; 
 
 
-
+Live Project: https://kant146.github.io/Resume/
 
 ### My Resume thumbnail:
 
